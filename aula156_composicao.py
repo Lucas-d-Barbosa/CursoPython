@@ -31,6 +31,6 @@ class Endereco:
     def __del__(self):
         print("Apagando,",self.rua, self.numero)
 cliente = Cliente("Lucas")
-cliente.inserir_endereco("João Fechine", 214)
+cliente.inserir_enadereco("João Fechine", 214)
 cliente.inserir_endereco("Três", 1166)
 cliente.exibir_endereco()
