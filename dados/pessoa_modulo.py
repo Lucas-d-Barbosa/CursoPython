@@ -1,0 +1,12 @@
+pessoa = {
+    'nome': 'Francisco Lucas',
+    'sobrenome': 'Barbosa',
+    'endereços': [
+        {'rua': 'João Fechine', 'número': 214},
+        {'rua': 'Rua 3', 'número': 1166},
+    ],
+    'altura': 1.72,
+    'números_preferidos' : (7, 8, 10, 11, 12),
+    'dev': True,
+    'nada': None,
+}
